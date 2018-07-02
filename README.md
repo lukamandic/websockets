@@ -1,6 +1,6 @@
-#Chat aplication using WebSockets
+# Chat aplication using WebSockets
 
-##Introduction
+## Introduction
 
 This litle piece of code is a chat application built using Socket.io and Express.js.
 
