@@ -4,8 +4,10 @@
 
 This litle piece of code is a chat application built using Socket.io and Express.js.
 
-`git clone https://github.com/lukamandic/websockets.git`
-`cd websockets/`
+```
+git clone https://github.com/lukamandic/websockets.git
+cd websockets/
+```
 
 Type `npm install` to install all dependencies.
 
