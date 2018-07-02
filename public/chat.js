@@ -6,7 +6,7 @@ const message = document.getElementById('message'),
         output = document.getElementById('output'),
         feedback = document.getElementById('feedback');
 
-btn.addEvenetListener('click', function(){
+btn.addEventListener('click', function(){
     socket.emit('chat', {
         message: message.value,
         handle: handle.value
